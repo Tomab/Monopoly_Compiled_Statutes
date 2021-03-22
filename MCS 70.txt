@@ -1,0 +1,7 @@
+MCS 70 GO
+	Sec. 70-10 The GO Square
+	(a) Each time a Token lands on or passes over GO, whether by rolling the dice or drawing a card, the Bank pays that Player a $200 salary
+	(b) The $200 is paid only once each time around the board.
+	(c) No additional bonus is rewarded for landing directly on the GO square.
+	Sec. 70-20 “Advance to GO”
+	(a) However, if a player passing GO lands 2 spaces beyond it on Community Chest, or 7 spaces beyond it on Chance, and draws the “Advance to GO” card, the Player collects $200 for passing GO the first time and another $200 for reaching it the second time by instructions on the card.

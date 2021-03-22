@@ -1,0 +1,7 @@
+MCS 45 AUCTIONEER
+	Sec. 45-10 Selecting a Auctioneer
+	(a) The Auctioneer may be any human entity chosen by mutual agreement by all Players.
+	Sec. 45-20 Re-selecting a Auctioneer
+	(a) If at any time during the Monopoly Game the Auctioneer should refuse to or become incapable of performing their assigned duties as Auctioneer, or for any reason at all, a Player may move for a vote of no-confidence in the Auctioneer.
+	(b) If the motion is carried, and the Players unanimously vote against the Auctioneer, the Auctioneer is compelled to resign.
+	(c) When an Auctioneer resigns, the game cannot continue until a new Auctioneer is selected by mutual agreement of the Players.

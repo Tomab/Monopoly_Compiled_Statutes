@@ -1,0 +1,8 @@
+MCS 1 DEFINITIONS
+	Sec. 1-10 This section shall include the definitions for terms used in the Monopoly Compiled Statutes.
+	(a)”Monopoly Game” shall refer to one specific board game session of play which a group of Players have agreed to play together starting when the first dice are rolled and ending when a Player has achieved victory.
+	(b)”Player” is a human entity taking part in the Monopoly Game.
+	(c)”Token” is a physical object which all Players have agreed to use to represent the location of a specific Player upon the game board.
+	(d)”Game Board” refers to a specific physical object which the Players have agreed to use to represent the playing field.
+	(e)”Monopoly Money” refers to any system of currency which the Banker has chosen to use.
+	(f)”Unimproved Property” refers to property which has neither houses nor hotels constructed upon it.

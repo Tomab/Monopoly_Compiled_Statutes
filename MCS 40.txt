@@ -1,0 +1,9 @@
+MCS 40 BANKER
+	Sec. 40-10 Selecting a Banker
+	(a) The Banker may be any human entity chosen by mutual agreement by all Players.
+	Sec. 40-20 Re-selecting a Banker
+	(a) If at any time during the Monopoly Game the Banker should refuse to or become incapable of performing their assigned duties as banker, or for any reason at all, a Player may move for a vote of no-confidence in the banker.
+	(b) If the motion is carried, and the Players unanimously vote against the Banker, the Banker is compelled to resign.
+	(c) When a Banker resigns, the game cannot continue until a new Banker is selected by mutual agreement of the Players.
+	Sec. 40-30 Personal Funds
+	(a) If the selected Banker is also a Player they must keep their personal funds separate from those of the Bank.

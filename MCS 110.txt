@@ -1,0 +1,9 @@
+MCS 110 INCOME TAX
+	Sec. 110-10 Options
+	(a) When a Token lands on this square the Player has two options.
+	(a-1) The Player may immediately pay $200 to the center of the board or,
+	(a-2) The Player may pay 10% of your total worth to the center of the board.
+	(b) A Player may determine their Total Worth before they come to a decision.
+	Sec. 110-20 Total Worth
+	(a) A Player's total worth is all of their cash on hand, the mortgage value of all of their properties, and the build price of all of their buildings.
+	(b) A “Get Out of Jail Free” card shall be valued at $50.
