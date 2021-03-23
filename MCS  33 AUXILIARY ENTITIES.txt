@@ -1,6 +1,6 @@
 MCS 33 AUXILIARY ENTITIES
 	Sec. 33-05 Auxiliary Entity Titles
-	(a)AuxilIary Entities include the Arbitrator, the Banker, and the Auctioneer.
+	(a) Auxiliary Entities include the Arbitrator, the Banker, and the Auctioneer.
 	Sec. 33-10 Selecting Auxiliary Entities
 	(a) An Auxiliary Entity may be any human entity chosen by the mutual agreement of all Players.
 	Sec. 33-15 Neutrality
@@ -13,5 +13,5 @@ MCS 33 AUXILIARY ENTITIES
 	Sec. 33-30 Resignation
 	(a) An Auxiliary Entity may resign at any time and for any reason.
 	(b) When an Auxiliary Entity resigns, the Monopoly Game cannot continue until the position is filled by mutual agreement of the Players.
-	Sec. 33-40 Coersion
+	Sec. 33-40 Coercion
 	(a) Under no circumstances shall a Player threaten an Auxiliary Entity in an attempt to gain an unfair advantage during the course of the Monopoly Game.
