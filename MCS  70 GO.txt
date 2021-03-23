@@ -4,7 +4,7 @@ MCS 70 GO
 	(b) The $200 in Monopoly Money is paid only once each time around the Game Board.
 	(c) No additional bonus is rewarded for landing directly on the GO square.
 	Sec. 70-20 “Advance to GO”
-	(a) However, if a Player passing GO lands 2 spaces beyond it on Community Chest, or 7 spaces beyond it on Chance, and draws the “Advance to GO” card, the Player collects $200 in Monopoly Money for passing GO the first time and another $200 in Monopoly Money for reaching it the second time by instructions on the card.
+	(a) If a Player who is passing GO lands 2 spaces beyond it on Community Chest, or 7 spaces beyond it on Chance, and draws the “Advance to GO” card, the Player collects $200 in Monopoly Money for passing GO the first time and another $200 in Monopoly Money for reaching it the second time by instructions on the card.
 	Sec. 70-30 Failure to Collect Salary
 	(a) In the event a Player neglects to collect their salary and ends their turn the Player may still collect their salary after paying the Bank a late fee.
 	(b) A Player is no longer entitled to collect their salary if they have ended a second turn after they would otherwise have been entitled to receive the salary.
