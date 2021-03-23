@@ -3,24 +3,26 @@ MCS 50 THE BANK
 	(a) The Bank is solely managed by the Banker.
 	(b) The Bank may at any time impose reasonable fines and fees for any service.
 	Sec. 50-10 Bank Holdings
-	(a) The Bank holds all Monopoly Money not held by the Players, bank-owned Title Deed cards, non-built houses, and non-built hotels.
+	(a) The Bank is responsible for all Monopoly Money not held by the Players, bank-owned Title Deed cards, non-built houses, and non-built hotels.
 	(b) If the Banker is a Player, they must keep their personal funds separate from those of the Bank.
 	Sec. 50-20 Payouts
 	(a) The Bank pays salaries, “Chance” card rewards, and “Community Chest” card rewards.
 	(b) When paid for, the Bank distributes Title Deed cards to Players.
-	(c) When bought, the Bank is responsibly for distributing houses and hotels.
+	(c) When bought, the Bank is responsible for distributing Improvements.
 	(d) The Bank disburses Monopoly Money when properties are mortgaged.
-	(e) The Bank distributes Monopoly Money when buying houses and hotels back.
+	(e) The Bank distributes Monopoly Money when buying Improvements back from Players.
 	Sec. 50-30 Collections
-	(a) The Bank receives Monopoly Money for properties it sells, proceeds from public auctions held by the Auctioneer, houses the Bank has sold, hotels the Bank has sold, and for mortgaged properties.
+	(a) The Bank receives Monopoly Money for properties it sells, proceeds from public auctions held by the Auctioneer, Improvements the Bank has sold, and for mortgaged properties.
 	Sec. 50-35 Currency
 	(a) The Bank defines the accepted forms of currency.
 	(b) The Bank may use paper, coin, or any object to represent any denomination the Bank sees fit.
-	(c) The Bank may at any time change, add, or remove any type of currency from circulation and at any time demand that any Player exchange any currency they have in their possession.
-	(d) The Bank may never run out of money.
+	(c) The Bank may at any time change, add, or remove any type of currency from circulation
+	(d) The Bank may at any time demand that any Player exchange any currency they have in their possession.
+	(e) The Bank may never run out of money.
+	(f) The Bank may make change from the money placed on the center of the board.
 	Sec. 50-40 Additional Duties
 	(a) The Bank shall be required to make change to any Player upon the Player's reasonable request.
 	Sec. 50-50 Establishing a Bonus or Penalty
 	(a) The Bank may establish a bonus or penalty for any Dice roll.
-	(b) These Dice roll penalty, if any, shall be made payable from the Player directly to the Bank.
+	(b) These Dice roll penalties, if any, shall be made payable from the Player directly to the Bank.
 	(c) Any Dice roll bonus, if any, shall be made payable from the Bank directly to the Player.
