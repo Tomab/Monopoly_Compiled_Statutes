@@ -6,7 +6,7 @@ MCS 120 JAIL
 	Sec. 120-20 When a Player is sent to jail:
 	(a) Go directly to Jail, Do not pass Go, Do not collect $200.
 	(b) The Player's turn is immediately over.
-	Sec. 120-30 Just Visiting
+	Sec. 120-30 Just Visiting 
 	(a) If a Token is not “sent” to Jail but in the ordinary course of play lands on that space, the Player is “Just Visiting,” and incurs no penalty.
 	(b) Upon the Player's next turn they may move ahead in the usual manner
 	Sec. 120-40 If at the beginning of a Player's turn they are in jail they may choose one of three methods of exiting.

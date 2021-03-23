@@ -1,5 +1,5 @@
 MCS 190 BANKRUPTCY
-	Sec. 190-10 A Player must declared bankruptcy if the Player owes more than they can pay either to another player or to the Bank.
+	Sec. 190-10 A Player must declared bankruptcy if the Player owes more than they can pay either to another player or to the Bank. 
 	(a) If a Player's debt is to another Player, they must turn over to that Player all that they have of value (including their Token) and retire from the Monopoly Game.
 	(b) If the Player has mortgaged Property they must turn this Property over to their creditor in the Property's current condition.
 	(c) Should the Player owe the Bank, instead of another Player, they must turn over all assets to the Bank.
