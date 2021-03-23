@@ -1,21 +1,4 @@
 MCS 210 ADDITONAL RULES
 	Sec. 210-10 Player Resignation
 	(a) A Player may at any time choose to resign from the Monopoly Game.
-	(b) If resigning Player does not indicate what they wish to do with their Properties and Monopoly Money, the money is returned to the Bank and the Properties are immediately auctioned off by the Auctioneer starting from the lowest priced property.
-	Sec. 210-20”Once Around the Board”
-	(a) The Players need not move around the board once before they buy Properties.
-	Sec. 210-30 Outside Assets or Services
-	(a) Players may not involve assets or services from outside the Monopoly Game in deals within the Monopoly Game.
-	(b) Trades and exchanges may not involve real-world commodities.
-	Sec. 210-40 Secret Deals
-	(a) Deals, trades, and exchanges need not be public knowledge.
-	Sec. 210-50 Open Trading
-	(a) Deals, trades, and exchanges may be negotiated, renegotiated, or performed at any time.
-	(b) Said interactions shall not interfere with the Dice-holder's turn against the Dice-holder's wishes.
-	Sec. 210-60 Buying Houses and Hotels
-	(a) A Player may only buy Houses and Hotels on their turn.
-	(b) This action can take place before, during, or after they roll the dice.
-	Sec. 210-70 Selling Houses and Hotels
-	(a) A Player may sell Houses and Hotels at any time.
-	Sec. 210-80 Selling Properties to the Bank
-	(a) Player's may not sell Properties back to the Bank.
+	(b) If the resigning Player does not indicate what they wish to do with their Properties and Monopoly Money, the money is returned to the Bank and the Properties are immediately auctioned off by the Auctioneer starting from the lowest priced property.

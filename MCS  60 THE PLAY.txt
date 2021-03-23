@@ -14,3 +14,5 @@ MCS 60 THE PLAY
 	(a) If the Player rolls doubles, move the Token as usual and complete the turn, but do not pass the dice on to the next Player.
 	(b) Retaining the dice, the Player must roll again and take their turn once more.
 	(c) If the Player rolls doubles three times in succession they must immediately move their Token to the space marked “In Jail” and end their turn.
+	Sec. 60-40”Once Around the Board”
+	(a) The Players need not move around the board once before they buy Properties, but can buy Bank-owned Properties from the very beginning.

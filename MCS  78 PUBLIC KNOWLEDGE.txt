@@ -2,3 +2,6 @@ MCS 78 PUBLIC KNOWLEDGE
 	Sec. 78-10 Disclosure
 	(a) Upon any human entity's request, a Player must reveal how much Monopoly Money they possess, and any “Get Out of Jail Free” cards they possess.
 	(b) Any non-Bank owned Title Deed cards must be displayed in plain view.
+	Sec. 78-20 Secret Deals
+	(a) Deals, trades, and exchanges need not be public knowledge.
+	(b) Contractual obligations need not be public knowledge.

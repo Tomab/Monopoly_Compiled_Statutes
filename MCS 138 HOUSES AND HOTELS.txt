@@ -1,0 +1,6 @@
+MCS 138 HOUSES AND HOTELS
+	Sec. 138-10 Buying Houses and Hotels
+	(a) A Player may only buy Houses and Hotels on their turn.
+	(b) This action can take place before, during, or after they roll the Dice.
+	Sec. 210-70 Selling Houses and Hotels
+	(a) A Player may sell Houses and Hotels back to the Bank at any time.
