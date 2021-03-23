@@ -1,5 +1,6 @@
 MCS 180 MORTGAGES
-	Sec. 180-10 Unimproved properties can be mortgaged through the Bank at any time. 	(a) Before an improved Property can be mortgaged, all the buildings on all the properties of its color-group must be sold back to the Bank.
+	Sec. 180-10 Unimproved properties can be mortgaged through the Bank at any time.
+	(a) Before an improved Property can be mortgaged, all the buildings on all the properties of its color-group must be sold back to the Bank.
 	(b) The mortgage value is printed on each Title Deed card.
 	(c) No rent can be collected on mortgaged properties or utilities, but rent can be collected on unmortgaged properties in the same group.
 	(d) In order to lift the mortgage, the Owner must pay the Bank the amount of the mortgage plus 10% interest.
