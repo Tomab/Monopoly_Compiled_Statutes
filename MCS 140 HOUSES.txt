@@ -4,7 +4,7 @@ MCS 140 HOUSES
 	(b) If the Player buys one house, they may put the house on any one of those properties.
 	(c) The next house the Player buys must be erected on one of the unimproved properties of this or any other complete color-group the Player owns.
 	(d) The price paid to the Bank for each house is shown on the corresponding Title Deed card for the Property on which the Player is erecting the house.
-	(e) The owner still collects double rent from an opponent who lands on the unimproved properties of their complete color-group.
+	(e) The Owner still collects double rent from an opponent who lands on the unimproved properties of their complete color-group.
 	(f) Following the above rules, a Player may buy and erect at any time as
  
 many houses as their financial standing will allow.

@@ -20,7 +20,7 @@ MCS 50 THE BANK
 	(d) The Bank may never run out of money.
 	Sec. 50-40 Additional Duties
 	(a) The Bank shall be required to make change to any Player upon the Player's reasonable request.
-	Sec. 50-50
-	()***
-	snake eye bonus/penalty
-	rolling 12 bonus/penalty
+	Sec. 50-50 Establishing a Bonus or Penalty
+	(a) The Bank may establish a bonus or penalty for any Dice roll.
+	(b) These Dice roll penalty, if any, shall be made payable from the Player directly to the Bank.
+	(c) Any Dice roll bonus, if any, shall be made payable from the Bank directly to the Player.
