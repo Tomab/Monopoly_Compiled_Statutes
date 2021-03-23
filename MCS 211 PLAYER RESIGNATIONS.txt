@@ -5,4 +5,4 @@ MCS 211 PLAYER RESIGNATIONS
 	(a) If the resigning Player does not indicate what they wish to do with their assets:
 	(b) The resigning Player's Monopoly Money is returned to the Bank.
 	(c) Properties are immediately auctioned off by the Auctioneer starting from the lowest priced Property.
-	(d)	If the resigning Player is in possession of any "Get Out of Jail Free" cards, they will be auctioned off.
+	(d) If the resigning Player is in possession of any "Get Out of Jail Free" cards, they will be auctioned off.
