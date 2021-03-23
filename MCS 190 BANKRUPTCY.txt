@@ -1,11 +1,15 @@
 MCS 190 BANKRUPTCY
-	Sec. 190-10 A Player must declared bankruptcy if the Player owes more than they can pay either to another Player or to the Bank. 
+	Sec. 190-10 Bankruptcy Requirements
+	(a) A Player must declared bankruptcy if the Player owes more than they can pay either to another Player or to the Bank.
+	(b) A Player who declares bankruptcy immediately resigns from the Monopoly Game.
+	Sec. 190-13 Bankruptcy Actions
 	(a) If a Player's debt is to another Player, they must turn over to that Player all that they have of value (including their Token) and resign from the Monopoly Game.
 	(b) If the Player has mortgaged Property they must turn this Property over to their creditor in the Property's current condition.
-	(c) Should the Player owe the Bank, instead of another Player, they must turn over all assets to the Bank.
-	(d) In this case, the Bank immediately sells by auction all Property so taken, except buildings.
-	(e) A Player who declares bankruptcy immediately resigns from the Monopoly Game.
-	(f) After bankruptcy a Player is no longer considered to be a Player, but rather a Spectator.
-	(g) The last Player left in the game wins.
+	Sec. 190-15 Bank Provisions
+	(a) Should the Player owe the Bank, instead of another Player, they must turn over all assets to the Bank.
+	(b) The Bank shall deposit the Monopoly Money and reclaim all Improvements.
+	(c) All Property and any "Get Out of Jail Free" Cards shall be tendered to the Auctioneer for immediate auction.
+	Sec. 190-17 Bankrupt Player's Legal Status
+	(a) After declaring bankruptcy a Player is no longer considered to be a Player, but rather a Spectator.
 	Sec. 190-20 Bankruptcy Laws
 	(a) Once a Player lands on a Property any deals or trades they participate in shall be voided unless the Owner receives either the appropriate rent amount due or the Owner is satisfied with what they receive as payment.
