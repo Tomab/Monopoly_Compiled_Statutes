@@ -8,7 +8,7 @@ MCS 100 CHANCE AND COMMUNITY CHEST CARDS
 	Sec. 100-11”You Are Assessed for Street Repairs” or “Make General Repairs On All Your Property”
 	(a) As soon as either of these cards are drawn, a Player's Properties may not be traded, exchanged, or otherwise transferred until all fees are paid in full.
 	Sec. 100-12“Advance to Go”
-	(a) The Player must immediately advance their Token to the Go square and collect $200 in Monopoly Money in accordance with MCS 70.
+	(a) The Player must immediately advance their Token to the Go square and adhere to all applicable statutes in MCS 70.
 	Sec. 100-13 Get Out of Jail Free
 	(a) The “Get Out of Jail Free” card is held until used and then returned to the bottom of the deck.
 	(b) If the Player who draws the card does not wish to use it, they may sell it, at any time, to any other Player at a price agreeable to both.
@@ -25,4 +25,4 @@ MCS 100 CHANCE AND COMMUNITY CHEST CARDS
 	(a) The Player must advance their Token to the nearest railroad.
 	(b) If the nearest railroad is behind the Player's Token, the Token must advance forward around the Monopoly Board to the railroad.
 	(c) If the railroad is owned by a Player, pay the Player twice what they would otherwise be entitled to.
-	(d) If the railroad is owned by the Bank the Player may buy the Property at the listed price.
+	(d) If the railroad is owned by the Bank the Player may buy the Property per the procedures and in accordance with MCS 80.

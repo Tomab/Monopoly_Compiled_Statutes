@@ -14,7 +14,7 @@ MCS 120 JAIL
 	(b) Paying $50 in Monopoly Money to the Bank.
 	(c) Attempting to roll doubles.
 	Sec. 120-50 Using the Card
-	(a) Place the card face down on the bottom of the deck and move the Token to “Just Visiting”.
+	(a) Place the card face down on the bottom of the appropriate deck and move the Token to “Just Visiting”.
 	(b) The Player may roll the dice and proceed with the rest of their turn.
 	Sec. 120-60 Paying Cash
 	(a) Pay $50 in Monopoly Money to the Bank and move the Token to “Just Visiting”.

@@ -1,6 +1,8 @@
 MCS 211 PLAYER RESIGNATIONS
 	Sec. 211-10 Timing
-	(a) A Player may at any time choose to resign from the Monopoly Game.
+	(a) A Player may choose to resign from the Monopoly Game at any time except when,
+	(b) During the course of the Player's turn they are faced with imminent bankruptcy.
+	(c) In this case the Player must adhere to the requirments set forth in MCS 190 before completing their resignation.
 	Sec. 211-20 Result of Resignation
 	(a) If the resigning Player does not indicate what they wish to do with their assets:
 	(b) The resigning Player's Monopoly Money is returned to the Bank.

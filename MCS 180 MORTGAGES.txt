@@ -1,9 +1,15 @@
 MCS 180 MORTGAGES
-	Sec. 180-10 Unimproved Properties can be mortgaged through the Bank at any time.
-	(a) Before an Improved Property can be mortgaged, all the Improvements on all the properties of its color-group must be sold back to the Bank.
-	(b) The mortgage value is printed on each Title Deed Card.
-	(c) No rent can be collected on mortgaged Properties or utilities, but rent can be collected on unmortgaged properties in the same group.
-	(d) In order to lift the mortgage, the Owner must pay the Bank the amount of the mortgage plus 10% interest.
-	(e) When all the properties of a color-group are no longer mortgaged, the Owner may begin to buy back Improvements at full price.
-	(f) The Player who mortgages Property retains possession of it and no other Player may secure it by lifting the mortgage from the Bank.
-	(g) The Owner may sell or trade this mortgaged Property to another Player at any agreed price.
+	Sec. 180-10 Mortgage Time
+	(a) Unimproved Properties can be mortgaged through the Bank at any time.
+	(b) Improved Property shall not be mortgaged unless all Improvements on all the properties of its color-group are first sold to the Bank.
+	Sec. 180-20 Mortgage Value
+	(a) When a Player mortgages a property the Bank shall pay the Player the amount indicated on the back of the Title Deed Card in Monopoly Money.
+	(b) When a Property is mortgaged, the Player will place the Title Deed Card face down.
+	Sec. 180-30 Rent Collection
+	(a) Rent shall not be collected on mortgaged Properties
+	(b) Rent can be collected on unmortgaged Properties in the same color-group.
+	Sec. 180-40 Lifting the Mortgage
+	(a) In order to lift the mortgage, the Owner must pay the Bank the amount of the mortgage plus 10%.
+	(b) The Player who mortgages a Property retains possession of it and no other Player may secure the Property by lifting the mortgage from the Bank.
+	Sec. 180-50 Trading Mortgaged Properties
+	(a) The Owner may sell or trade mortgaged Property to any Player without having to first unmortgage the Property.
