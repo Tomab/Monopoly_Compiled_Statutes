@@ -13,4 +13,3 @@ MCS 1 DEFINITIONS
 	(c)”Improved Property” refers to Property which has either houses or hotels constructed upon it.
 	(d)”Title Deed Card” refers to a card used to determine Ownership of a Property.
 	(e)”Owner” refers to either the Bank or the Player who is in possession of the Title Deed Card for a specific Property.
-	
