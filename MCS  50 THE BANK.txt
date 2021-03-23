@@ -3,7 +3,7 @@ MCS 50 THE BANK
 	(a) The Bank is solely managed by the Banker.
 	(b) The Bank may at any time impose reasonable fines and fees for any service.
 	Sec. 50-10 Bank Holdings
-	(a) If the Banker is a Player, they must keep their personal funds separate from those of the Bank.
+	(a) If the Banker or their Designee is a Player, they must keep their personal funds separate from those of the Bank.
 	Sec. 50-20 Payouts
 	(a) The Bank pays salaries, “Chance” card rewards, and “Community Chest” card rewards.
 	(b) When paid for, the Bank distributes Title Deed Cards to Players.

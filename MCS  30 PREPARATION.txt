@@ -1,13 +1,15 @@
 MCS 30 PREPARATION
 	Sec. 30-5 Choosing the Rules
 	(a) Before setup can begin, all Players must agree on suitable rules to use for play.
-	(b) Any rule or statute may be removed, modified, or added at this time at the mutual agreement of all Players.
-	Sec. 30-20 All Auxiliary Entities must be chosen.
-	(a) Arbitrator
-	(b) Banker
-	(c) Auctioneer
-	Sec. 30-30 Each Player must select a Token.
-	Sec. 30-40 The Banker Must:
+	(b) Any rule or statute may be removed, modified, or added at any time at the mutual agreement of all Players.
+	Sec. 30-20 Auxiliary Entity Selection
+	(a) The following Auxiliary Entities must be chosen:
+	(a-1) Arbitrator
+	(b-2) Banker
+	(c-3) Auctioneer
+	Sec. 30-30 Tokens
+	(a) Each Player must select a Token.
+	Sec. 30-40 The Bank Must:
 	(a) Place the Game Board on a table or other suitably flat surface.
 	(b) Distribute $1,500 of Monopoly Money to each Player.
 	(c) Shuffle and place the Chance and Community Chest cards face down on their allotted spaces upon the Game Board.

@@ -1,0 +1,12 @@
+MCS 230 DESIGNEES
+	Sec. 230-10 Definitions
+	(a)"Designee" is a duly authorized entity which has been selected to perform specific duties, functions, or roles of a Designator.
+	(b)"Designator" is any entity who has appointed a Designee.
+	Sec. 230-20 Restrictions
+	(a) Any entity can be a Designator
+	(b) An entity acting as a Designee cannot directly hold Monopoly Money, Property, Title Deed Cards, or any assets.
+	Sec. 230-30 Responsibilities
+	(a) The Designator shall be responsible for the actions of any Designees appointed.
+	(b) Designees shall act for and as the Designator they represent to the extent to which they have been granted such duties and responsibilities.
+	Sec. 230-40 Removal
+	(a) A Designee can be removed at any time and for any reason at the discretion of their respective Designator.
