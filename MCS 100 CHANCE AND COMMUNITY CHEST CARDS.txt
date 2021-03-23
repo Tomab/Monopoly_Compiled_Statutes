@@ -3,11 +3,10 @@ MCS 100 CHANCE AND COMMUNITY CHEST CARDS
 	(a) When a Token lands on a Community Chest or Chance space, the Player must take the top card from the corresponding deck
 	(b) Read out loud and follow the instructions.
 	(c) Return the card face down to the bottom of the corresponding deck without shuffling.
-	(d) Any cards which involve the Player paying a fine, fee, or payment not directed to another Player must pay the amount to the center of the board.
 	Sec. 100-10”Go to Jail”
 	(a) Follow all applicable rules in MCS 120.
 	Sec. 100-11”You Are Assessed for Street Repairs” or “Make General Repairs On All Your Property”
-	(a) As soon as either of these cards are drawn, a Player's Properties may not be traded, exchanged, or otherwise transferred until all fees are paid in full to the center of the Monopoly Board.
+	(a) As soon as either of these cards are drawn, a Player's Properties may not be traded, exchanged, or otherwise transferred until all fees are paid in full.
 	Sec. 100-12“Advance to Go”
 	(a) The Player must immediately advance their Token to the Go square and collect $200 in accordance with MCS 70-10(a).
 	Sec. 100-13 Get Out of Jail Free

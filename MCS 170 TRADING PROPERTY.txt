@@ -1,9 +1,9 @@
 MCS 170 TRADING PROPERTY
-	Sec. 170-10
+	Sec. 170-10 Trading
 	(a) Unimproved properties, railroads and utilities may be sold or traded to any player as a private transaction.
 	(b) Improved Properties cannot be traded.
 	Sec. 170-20 Transfer Fees
-	(a) Whenever a Player transfers a Property to another Player, the Bank shall collect a $10 transfer fee payable to the center of the Monopoly Board.
+	(a) Whenever a Player transfers a Property to another Player, the Bank shall collect a $10 transfer fee.
 	Sec. 170-30 Miscellaneous Agreements
 	(a) Players may come to all sorts of agreements involving Properties and Rent collection.
 	(b) Agreements involving leans, immunity, shares, profit splitting, shared construction costs, etc. are allowed.

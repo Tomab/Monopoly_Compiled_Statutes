@@ -11,19 +11,19 @@ MCS 120 JAIL
 	(b) Upon the Player's next turn they may move ahead in the usual manner
 	Sec. 120-40 If at the beginning of a Player's turn they are in jail they may choose one of three methods of exiting.
 	(a) Using “Get Out of Jail Free” card.
-	(b) Paying $50 to the center of the board.
+	(b) Paying $50 to the Bank.
 	(c) Attempting to roll doubles.
 	Sec. 120-50 Using the Card
 	(a) Place the card face down on the bottom of the deck and move the Token to “Just Visiting”.
 	(b) The Player may roll the dice and proceed with the rest of their turn.
 	Sec. 120-60 Paying Cash
-	(a) Pay $50 to the center of the board and move the Token to “Just Visiting”.
-	(b) The Player may roll the dice and proceed with the rest of their turn.
+	(a) Pay $50 to the Bank and move the Token to “Just Visiting”.
+	(b) The Player may roll the Dice and proceed with the rest of their turn.
 	Sec. 120-70 Rolling Doubles
 	(a) The Player must roll the dice in an attempt to roll doubles.
 	(b) If the Player succeeds in doing this, they immediately move forward the number of spaces shown on the dice.
 	(c) Even if successful, the Player does not get a second turn.
-	(d) If the Player is unsuccessful, they may opt to utilize either of the other options and end their turn without rolling the dice.
+	(d) If the Player is unsuccessful, they may opt to utilize either of the other options and end their turn without rolling the Dice.
 	(e) In the event the Player has failed to roll doubles three times, they are compelled to utilize one of the other options and end their turn without rolling the dice.
 	(f) If the Player cannot obtain either a card or $50 then they are forced to declare bankruptcy to the Bank.
 	Sec. 120-80 Jail Law
