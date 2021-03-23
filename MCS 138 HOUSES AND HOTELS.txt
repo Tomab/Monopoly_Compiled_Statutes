@@ -1,6 +1,20 @@
 MCS 138 HOUSES AND HOTELS
-	Sec. 138-10 Buying Houses and Hotels
-	(a) A Player may only buy Houses and Hotels on their turn.
-	(b) This action can take place before, during, or after they roll the Dice.
-	Sec. 210-70 Selling Houses and Hotels
-	(a) A Player may sell Houses and Hotels back to the Bank at any time.
+	Sec. 138-05 Definitions
+	(a) “Improvements” shall include both Houses and Hotels
+	Sec. 138-10 Buying Improvements
+	(a) A Player may only buy Improvements during their turn.
+	(b) This action can take place before, during, or after the Player rolls the Dice.
+	(c) A Player must own all the properties in a color-group to buy Improvements on those properties.
+	(d) The price paid to the Bank for each house is shown on the corresponding Title Deed card for the Property on which the Player is buying the Improvement.
+	Sec 138-20 Selling Improvements
+	(a) A Player may sell Improvements back to the Bank at any time for half the buy cost.
+	Sec. 138-30 Buying and Selling Evenly
+	(a) Improvements must be bought and sold evenly.
+	(b) At no time can any Property within a color-group have more than one Improvement more than any other Property within the same color-group.
+	Sec. 138-40 Improvement Shortages
+	(a) When the Bank has no Improvements left the Bank must find and use a suitable substitute for additional Improvements.
+	(b) The Bank must never “run out” of Improvements.
+	Sec. 138-50 Miscellaneous
+	(a) The Property Owner still collects double rent from a Player who lands on the unimproved properties of their complete color-group.
+	(b) For all intents and purposes in MCS 138 a Hotel will be treated as a fifth Improvement.
+	(c) A Property may only have a maximum of five Improvements.

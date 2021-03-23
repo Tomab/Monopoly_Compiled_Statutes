@@ -8,7 +8,7 @@ MCS 1 DEFINITIONS
 	(f)”Contract” refers to any legal agreement, trade, or exchange, whether verbal or written, to which all involved entities have agreed to.
 	(g)”Spectator” refers to either a bankrupt Player or non-playing human entity.
 	Sec. 1-20 Property
-	(a)”Property” refers to a square upon the Game Board.
+	(a)”Property” refers to a square upon the Game Board who's Owner is the entity in possession of the corresponding Title Deed card.
 	(b)”Unimproved Property” refers to Property which has neither houses nor hotels constructed upon it.
 	(c)”Improved Property” refers to Property which has either houses or hotels constructed upon it.
 	(d)”Title Deed card” refers to a card used to determine Ownership of a Property.

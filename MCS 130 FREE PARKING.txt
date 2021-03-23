@@ -1,6 +1,9 @@
 MCS 130 FREE PARKING
-	Sec. 130-10
+	Sec. 130-5 Banker Responsibilities
+	(a) After a Player collects money from the center of the board, the Banker must place the Free Parking reward back onto the Game Board.
+	(b) The Bank shall set an amount of money to be placed on the Game Board as a Free Parking reward and keep this amount constant  for the duration of the Monopoly Game.
+	(c) Payments made to Free Parking will be verified by the Bank.
+	Sec. 130-10 Landing On Free Parking
 	(a) A Token landing on this place receives all the money deposited upon the center of the Game Board.
-	(b) After the Player collects their money, the Bank must place the Free Parking reward onto the Game Board.
-	(c) Players may not make change from Free Parking.
-	(d) Payments made to Free Parking will be verified by the Bank.
+	Sec. 130-30 Miscellaneous
+	(b) Players may not make change from Free Parking.

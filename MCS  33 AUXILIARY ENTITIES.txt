@@ -1,0 +1,11 @@
+MCS 33 AUXILIARY ENTITIES
+	Sec. 33-05 AuxilIary Entities include the Arbitrator, the Banker, and the Auctioneer.
+	Sec. 33-10 Selecting Auxiliary Entities
+	(a) An Auxiliary Entity may be any human entity chosen by the mutual agreement of all Players
+	Sec. 33-20 Removing Auxiliary Entities
+	(a) If at any time during the Monopoly Game an Auxiliary Entity should refuse to or become incapable of performing their assigned duties, or for any reason at all, a Player may move for a vote of no-confidence in the Auxiliary Entity.
+	(b) If the motion is carried and the Auxiliary Entity is not a Player, the Players need a unanimous vote against the Auxiliary Entity to compel the Auxiliary Entity to resign.
+	(c) If the motion is carried and the Auxiliary Entity is a Player, then Players need an all-but-one vote against the Auxiliary Entity to compel the Auxiliary Entity to resign.
+	Sec. 33-30 Resignation
+	(a) An Auxiliary Entity may resign at any time and for any reason.
+	(b) When an Auxiliary Entity resigns, the Monopoly Game cannot continue until the position is filled by mutual agreement of the Players.

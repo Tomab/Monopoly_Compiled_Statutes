@@ -5,3 +5,6 @@ MCS 70 GO
 	(c) No additional bonus is rewarded for landing directly on the GO square.
 	Sec. 70-20 “Advance to GO”
 	(a) However, if a player passing GO lands 2 spaces beyond it on Community Chest, or 7 spaces beyond it on Chance, and draws the “Advance to GO” card, the Player collects $200 for passing GO the first time and another $200 for reaching it the second time by instructions on the card.
+	Sec. 70-30 Failure to Collect Salary
+	(a) In the event a Player neglects to collect their salary and ends their turn the Player may still collect their salary after paying a $20 late fee to the center of the board.
+	(b) A Player is no longer entitled to collect their salary if they have ended a second turn after they would otherwise have been entitled to receive the salary.

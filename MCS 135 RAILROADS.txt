@@ -1,6 +1,6 @@
 MCS 135 RAILROADS
 	Sec. 135-10 Landing on Railroads
-	(a) Whenever a Player lands on a railroad, the Player may choose to move their Token to any other railroad owned by the same Player.
+	(a) Whenever a Player lands on a Player-owned railroad, the Player may choose to move their Token to any other railroad owned by the same Player.
 	(b) The Player must pay rent even if he or she does not choose to travel.
 	(c) A Player may travel on their own railroads for free.
 	(d) A Player may not travel on Bank owned railroads.
@@ -8,5 +8,5 @@ MCS 135 RAILROADS
 	(f) The Owner of the railroads may not prevent the Player from traveling.
 	(g) A Player may travel to or from a mortgaged railroad.
 	(h) If a Player travels from a mortgaged railroad to an unmortgaged railroad, they do not have to pay rent.
-	(i) A Railroad cannot be used on the turn that the Property is aquired by any Player.
+	(i) A Railroad cannot be used on the same turn that the Property is aquired by any Player.
 	(j) Travel must occur on the same turn on which the Player has landed on a Railroad.

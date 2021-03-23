@@ -2,9 +2,9 @@ MCS 50 THE BANK
 	Sec. 50-5 Bank Management
 	(a) The Bank is solely managed by the Banker.
 	(b) The Bank may at any time impose reasonable fines and fees for any service.
-	(c) The Bank shall set an amount of money to be placed on the Game Board as a Free Parking reward and keep this amount constant for the duration of the Monopoly Game.
 	Sec. 50-10 Bank Holdings
 	(a) The Bank holds all Monopoly Money not held by the Players, bank-owned Title Deed cards, non-built houses, and non-built hotels.
+	(b) If the Banker is a Player, they must keep their personal funds separate from those of the Bank.
 	Sec. 50-20 Payouts
 	(a) The Bank pays salaries, “Chance” card rewards, and “Community Chest” card rewards.
 	(b) When paid for, the Bank distributes Title Deed cards to Players.
@@ -13,7 +13,7 @@ MCS 50 THE BANK
 	(e) The Bank distributes Monopoly Money when buying houses and hotels back.
 	Sec. 50-30 Collections
 	(a) The Bank receives Monopoly Money for properties it sells, proceeds from public auctions held by the Auctioneer, houses the Bank has sold, hotels the Bank has sold, and for mortgaged properties.
-	Sec. 50-30 Currency
+	Sec. 50-35 Currency
 	(a) The Bank defines the accepted forms of currency.
 	(b) The Bank may use paper, coin, or any object to represent any denomination the Bank sees fit.
 	(c) The Bank may at any time change, add, or remove any type of currency from circulation and at any time demand that any Player exchange any currency they have in their possession.

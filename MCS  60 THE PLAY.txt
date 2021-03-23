@@ -5,7 +5,7 @@ MCS 60 THE PLAY
 	Sec. 60-20 Player Turn
 	(a) Upon a Player's first turn, they must place their token on the corner marked “GO”.
 	(b) The Player must roll the dice and move their Token in the direction of the arrow the number of spaces indicated by the dice.
-	(c) After the Player has completed their turn they must pass the dice to the next Player.
+	(c) After the Player has completed their turn they must pass the Dice to the next Player.
 	Sec. 60-30 Token Law
 	(a) The Token remains on the space occupied and will proceed from that point upon the Player's next turn.
 	(b) Two or more Tokens may rest upon the same space at the same time.	
@@ -14,5 +14,5 @@ MCS 60 THE PLAY
 	(a) If the Player rolls doubles, move the Token as usual and complete the turn, but do not pass the dice on to the next Player.
 	(b) Retaining the dice, the Player must roll again and take their turn once more.
 	(c) If the Player rolls doubles three times in succession they must immediately move their Token to the space marked “In Jail” and end their turn.
-	Sec. 60-40”Once Around the Board”
+	Sec. 60-50”Once Around the Board”
 	(a) The Players need not move around the board once before they buy Properties, but can buy Bank-owned Properties from the very beginning.

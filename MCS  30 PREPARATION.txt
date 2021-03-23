@@ -1,13 +1,14 @@
 MCS 30 PREPARATION
 	Sec. 30-5 Choosing the Rules
-	(a) The rules set forth here are designed for a minimum of 3 players.
-	(b) Before setup can begin, all Players must agree on suitable rules to use for play.
-	(c) Any rule or statute may be removed, modified, or added at this time at the mutual agreement of all Players.
-	Sec. 30-10 Place the game board on a table or other suitably flat area.
-	Sec. 30-20 The Arbitrator must be chosen.
-	Sec. 30-30 The Banker must be chosen.
-	Sec. 30-40 The Auctioneer must be chosen.
-	Sec. 30-50 Each Player must select a Token.
-	Sec. 30-60 The Bank must distribute $1,500 to each Player.
-	Sec. 30-70 The Bank must shuffle and place the Chance and Community Chest cards face down on their allotted spaces upon the Game Board.
-	Sec. 30-80 The Bank places the free parking reward on the Game Board.
+	(a) Before setup can begin, all Players must agree on suitable rules to use for play.
+	(b) Any rule or statute may be removed, modified, or added at this time at the mutual agreement of all Players.
+	Sec. 30-20 All Auxiliary Entities must be chosen.
+	(a) Arbitrator
+	(b) Banker
+	(c) Auctioneer
+	Sec. 30-30 Each Player must select a Token.
+	Sec. 30-40 The Banker Must:
+	(a) Place the game board on a table or other suitably flat surface.
+	(b) Distribute $1,500 to each Player.
+	(c) Shuffle and place the Chance and Community Chest cards face down on their allotted spaces upon the Game Board.
+	(d) Place the free parking reward on the Game Board.
