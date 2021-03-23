@@ -8,3 +8,5 @@ MCS 135 RAILROADS
 	(f) The Owner of the railroads may not prevent the Player from traveling.
 	(g) A Player may travel to or from a mortgaged railroad.
 	(h) If a Player travels from a mortgaged railroad to an unmortgaged railroad, they do not have to pay rent.
+	(i) A Railroad cannot be used on the turn that the Property is aquired by any Player.
+	(j) Travel must occur on the same turn on which the Player has landed on a Railroad.

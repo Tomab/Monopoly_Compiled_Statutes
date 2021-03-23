@@ -1,6 +1,6 @@
 MCS 110 INCOME TAX
 	Sec. 110-1 Definitions
-	(a)”Total Worth” shall be defined as a quantity of Monopoly Money equal to all of a Player's cash on hand, the printed purchase value of all of their Properties, the build price of all of their buildings, and all of their “Get Out of Jail Free” cards valued at $50 each.
+	(a)”Total Worth” shall be defined as a quantity of Monopoly Money equal to all of a Player's cash on hand, the printed purchase value of all of their Properties, the build price of all of their buildings,  all of their “Get Out of Jail Free” cards valued at $50 each., and any Monopoly Money collected in the same turn from passing Go.
 	Sec. 110-10 Options
 	(a) When a Token lands on this square the Player has two options.
 	(a-1) The Player may immediately pay $200 to the center of the board or,

@@ -1,6 +1,6 @@
 MCS 200 ARBITRATION
 	Sec. 200-10 When to Arbitrate
-	(a) If at any time two or more Players disagree on any rule, agreement, or for any reason at all, they may call upon the Arbitrator to settle said disagreement.
+	(a) If at any time two or more human entities disagree on any rule, agreement, or for any reason at all, they may call upon the Arbitrator to settle said disagreement.
 	(b) The Arbitrator may not initiate Arbitration, but must be petitioned by a Player to do so.
 	(c) The Arbitrator will only address one specific disagreement at a time.
 	Sec. 200-20 Proceedings

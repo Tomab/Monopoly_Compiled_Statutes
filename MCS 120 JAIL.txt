@@ -30,3 +30,4 @@ MCS 120 JAIL
 	(a) Even though a Player is in Jail, they may buy and sell Property, buy and sell houses and hotels, collect all rent owed to them, and engage in trades and exchanges.
 	(b) A Player may not immediately pay bail or use a get out of jail free card
 	(c) The Player must wait until their next turn to do so.
+	(d) Even if a Player rolls doubles on the turn they are sent to jail, their turn shall still be over.

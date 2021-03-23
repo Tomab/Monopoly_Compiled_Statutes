@@ -5,6 +5,6 @@ MCS 140 HOUSES
 	(c) The next house the Player buys must be erected on one of the unimproved properties of this or any other complete color-group the Player owns.
 	(d) The price paid to the Bank for each house is shown on the corresponding Title Deed card for the Property on which the Player is erecting the house.
 	(e) The Owner still collects double rent from an opponent who lands on the unimproved properties of their complete color-group.
-	(f) Following the above rules, a Player may buy and erect at any time as many houses as their financial standing will allow.
+	(f) Following the above rules, a Player may buy and erect at any time during their turn as many houses as their financial standing will allow.
 	(g) Houses and hotels must be built evenly.
 	(h) As a Player builds evenly, they must also break down evenly if they sell houses back to the Bank.

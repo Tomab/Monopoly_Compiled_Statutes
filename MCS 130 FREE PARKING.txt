@@ -2,3 +2,5 @@ MCS 130 FREE PARKING
 	Sec. 130-10
 	(a) A Token landing on this place receives all the money deposited upon the center of the Game Board.
 	(b) After the Player collects their money, the Bank must place the Free Parking reward onto the Game Board.
+	(c) Players may not make change from Free Parking.
+	(d) Payments made to Free Parking will be verified by the Bank.
