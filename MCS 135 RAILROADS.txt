@@ -5,8 +5,8 @@ MCS 135 RAILROADS
 	(c) A Player may travel on their own railroads for free.
 	Sec. 135-20 Travel Specifics
 	(a) Travel is direct and across the board.
-	(b) A Player does not collect $200 for passing GO when they travel the railroad.
+	(b) A Player does not collect $200 in Monopoly Money for passing GO when they travel the railroad.
 	(c) Travel must occur on the same turn on which the Player has landed on a railroad.
 	Sec. 135-30 Travel Restrictions
-	(a) A Player may not travel on Bank owned railroads.
-	(b) A Railroad cannot be used on the same turn that the Property is aquired by any Player.
+	(a) A Player may not travel on Bank-owned railroads.
+	(b) A Railroad cannot be used on the same turn that the Property is acquired by any Player.

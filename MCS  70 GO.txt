@@ -1,10 +1,10 @@
 MCS 70 GO
 	Sec. 70-10 The GO Square
-	(a) Each time a Token lands on or passes over GO, whether by rolling the dice or drawing a card, the Bank pays that Player a $200 salary
-	(b) The $200 is paid only once each time around the board.
+	(a) Each time a Token lands on or passes over GO, whether by rolling the dice or drawing a card, the Bank pays that Player a $200 salary in Monopoly Money.
+	(b) The $200 in Monopoly Money is paid only once each time around the Game Board.
 	(c) No additional bonus is rewarded for landing directly on the GO square.
 	Sec. 70-20 “Advance to GO”
-	(a) However, if a player passing GO lands 2 spaces beyond it on Community Chest, or 7 spaces beyond it on Chance, and draws the “Advance to GO” card, the Player collects $200 for passing GO the first time and another $200 for reaching it the second time by instructions on the card.
+	(a) However, if a Player passing GO lands 2 spaces beyond it on Community Chest, or 7 spaces beyond it on Chance, and draws the “Advance to GO” card, the Player collects $200 in Monopoly Money for passing GO the first time and another $200 in Monopoly Money for reaching it the second time by instructions on the card.
 	Sec. 70-30 Failure to Collect Salary
-	(a) In the event a Player neglects to collect their salary and ends their turn the Player may still collect their salary after paying a $20 late fee to the center of the board.
+	(a) In the event a Player neglects to collect their salary and ends their turn the Player may still collect their salary after paying the Bank a late fee.
 	(b) A Player is no longer entitled to collect their salary if they have ended a second turn after they would otherwise have been entitled to receive the salary.

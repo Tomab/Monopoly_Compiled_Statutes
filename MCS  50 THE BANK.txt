@@ -6,7 +6,7 @@ MCS 50 THE BANK
 	(a) If the Banker is a Player, they must keep their personal funds separate from those of the Bank.
 	Sec. 50-20 Payouts
 	(a) The Bank pays salaries, “Chance” card rewards, and “Community Chest” card rewards.
-	(b) When paid for, the Bank distributes Title Deed cards to Players.
+	(b) When paid for, the Bank distributes Title Deed Cards to Players.
 	(c) When bought, the Bank is responsible for distributing Improvements.
 	(d) The Bank disburses Monopoly Money when properties are mortgaged.
 	(e) The Bank distributes Monopoly Money when buying Improvements back from Players.

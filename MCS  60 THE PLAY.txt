@@ -3,7 +3,7 @@ MCS 60 THE PLAY
 	(a) To determine the order of play, each Player shall roll the dice.
 	(b) The Player with the highest total will take their turn first, moving clock-wise there after.
 	Sec. 60-20 Player Turn
-	(a) Upon a Player's first turn, they must place their token on the corner marked “GO”.
+	(a) Upon a Player's first turn, they must place their Token on the corner marked “GO”.
 	(b) The Player must roll the dice and move their Token in the direction of the arrow the number of spaces indicated by the dice.
 	(c) After the Player has completed their turn they must pass the Dice to the next Player.
 	Sec. 60-30 Token Law
@@ -15,4 +15,4 @@ MCS 60 THE PLAY
 	(b) Retaining the dice, the Player must roll again and take their turn once more.
 	(c) If the Player rolls doubles three times in succession they must immediately move their Token to the space marked “In Jail” and end their turn.
 	Sec. 60-50”Once Around the Board”
-	(a) The Players need not move around the board once before they buy Properties, but can buy Bank-owned Properties from the very beginning.
+	(a) The Players need not move around the board once before they buy Properties, but can buy Bank-owned Properties from the very first round of play.

@@ -1,6 +1,8 @@
 MCS 211 PLAYER RESIGNATIONS
-	Sec. 210-10 A Player may at any time choose to resign from the Monopoly Game.
-	Sec. 210-20 If the resigning Player does not indicate what they wish to do with their Properties and Monopoly Money:
-	(a) The money is returned to the Bank.
-	(b) Properties are immediately auctioned off by the Auctioneer starting from the lowest priced property.
-(c)	Finally, if the resigning Player is in possession of any get out of jail free cards, they will be auctioned off as well.
+	Sec. 211-10 Timing
+	(a) A Player may at any time choose to resign from the Monopoly Game.
+	Sec. 211-20 Result of Resignation
+	(a) If the resigning Player does not indicate what they wish to do with their assets:
+	(b) The resigning Player's Monopoly Money is returned to the Bank.
+	(c) Properties are immediately auctioned off by the Auctioneer starting from the lowest priced property.
+	(d)	If the resigning Player is in possession of any get out of jail free cards, they will be auctioned off.

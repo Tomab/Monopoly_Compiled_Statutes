@@ -3,7 +3,7 @@ MCS 200 ARBITRATION
 	(a) If at any time two or more human entities disagree on any rule, agreement, or for any reason at all, they may petition the Arbitrator to settle said disagreement.
 	(b) The Arbitrator may not initiate Arbitration, but must be petitioned by a Player to do so.
 	(c) The Arbitrator will only address one specific disagreement at a time.
-	(d) A Player may withdraw their petition at any time before they have fully presented their case to the arbitrator.
+	(d) A human entity may withdraw their petition at any time before they have fully presented their case to the Arbitrator.
 	Sec. 200-20 Proceedings
 	(a) The Arbitrator shall act as a neutral negotiator and attempt to resolve any disagreement.
 	(b) The Arbitrator shall listen to all parties involved and shall give all parties a chance to voice their opinions.
@@ -15,4 +15,4 @@ MCS 200 ARBITRATION
 	(c) All parties need not be satisfied by the ruling.
 	Sec. 200-40 Fees and Fines
 	(a) The Arbitrator, at their discretion, may order any reasonable fees and fines that they see fit payable to the Bank or to any Player.
-	(b) The Arbitrator may alter or modify any rule or law written herein for the duration of the Monopoly Game except those laws written under MCS 35 and MCS 200-40(b).
+	(b) The Arbitrator may alter or modify any rule or law written herein for the duration of the Monopoly Game except those laws written under MCS 33 and MCS 200-40(b).
