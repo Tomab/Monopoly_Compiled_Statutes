@@ -15,6 +15,6 @@ MCS 138 HOUSES AND HOTELS
 	(a) When the Bank has no Improvements left the Bank must find and use a suitable substitute for additional Improvements.
 	(b) The Bank must never “run out” of Improvements.
 	Sec. 138-50 Miscellaneous
-	(a) The Property Owner still collects double rent from a Player who lands on the Unimproved Properties of their complete color-group.
+	(a) The Owner still collects double rent from a Player who lands on the Unimproved Properties of their complete color-group.
 	(b) For all intents and purposes in MCS 138 a Hotel will be treated as a fifth Improvement.
 	(c) A Property may only have a maximum of five Improvements.

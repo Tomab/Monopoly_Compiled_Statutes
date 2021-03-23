@@ -1,6 +1,6 @@
 MCS 90 PAYING RENT
 	Sec. 90-10 When to Pay Rent
-	(a) When a Token lands on Property owned by another Player, the Property Owner may collect rent in accordance with the list printed on the Property's Title Deed Card.
+	(a) When a Token lands on Property owned by another Player, the Owner may collect rent in accordance with the list printed on the Property's Title Deed Card.
 	Sec. 90-20 Mortgaged Properties
 	(a) If the Property is mortgaged, no rent can be collected.
 	(b) When a Property is mortgaged, its Title Deed Card is placed face down in front of the Owner and in plain view.
@@ -11,5 +11,5 @@ MCS 90 PAYING RENT
 	(a) Property with houses or hotels built upon them may charge a higher rent in accordance with the list printed on the Property's Title Deed Card.
 	Sec. 90-50 Owner Neglect
 	(a) The Owner is always entitled to collect the rent even if the Owner fails to ask for it.
-	(b) A Player who fails to notify the Owner and fails to pay any rent owed before the end of their turn shall upon discovery pay the rent originally owed and be subject to an additional fee Payable to the Property Owner.
+	(b) A Player who fails to notify the Owner and fails to pay any rent owed before the end of their turn shall upon discovery pay the rent originally owed and be subject to an additional fee Payable to the Owner.
 	(c) Said fee shall be determined by the Bank and shall remain constant for the duration of the Monopoly Game for all Players.

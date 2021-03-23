@@ -8,4 +8,4 @@ MCS 190 BANKRUPTCY
 	(f) After bankruptcy a Player is no longer considered to be a Player, but rather a Spectator.
 	(g) The last Player left in the game wins.
 	Sec. 190-20 Bankruptcy Laws
-	(a) Once a Player lands on a Property any deals or trades they participate in shall be voided unless the Property Owner receives either the appropriate amount due or the Property Owner is satisfied with what they receive as payment.
+	(a) Once a Player lands on a Property any deals or trades they participate in shall be voided unless the Owner receives either the appropriate rent amount due or the Owner is satisfied with what they receive as payment.
