@@ -5,6 +5,6 @@ MCS 170 TRADING PROPERTY
 	(c) Houses and hotels may be sold back to the Bank at any time for one-half  the price paid for them.
 	Sec. 170-20 Transfer Fees
 	(a) Whenever a Player transfers a Property to another Player, the Bank shall collect a $10 transfer fee.
-	Sec. 170-30
-	()***
-	leans, immunity, shares, profits, shared construction, etc.
+	Sec. 170-30 Miscellaneous Agreements
+	(a) Players may come to all sorts of agreements involving Properties and Rent collection.
+	(b) Agreements involving leans, immunity, shares, profit splitting, shared construction costs, etc. are allowed.

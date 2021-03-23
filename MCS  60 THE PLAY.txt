@@ -3,9 +3,9 @@ MCS 60 THE PLAY
 	(a) To determine the order of play, each Player shall roll the dice.
 	(b) The Player with the highest total will take their turn first, moving clock-wise there after.
 	Sec. 60-20 Player Turn
-	(c) Upon a Player's first turn, they must place their token on the corner marked “GO”.
-	(d) The Player must roll the dice and move their Token in the direction of the arrow the number of spaced indicated by the dice.
-	(e) After the Player has completed their turn they must pass the dice to the next Player.
+	(a) Upon a Player's first turn, they must place their token on the corner marked “GO”.
+	(b) The Player must roll the dice and move their Token in the direction of the arrow the number of spaces indicated by the dice.
+	(c) After the Player has completed their turn they must pass the dice to the next Player.
 	Sec. 60-30 Token Law
 	(a) The Token remains on the space occupied and will proceed from that point upon the Player's next turn.
 	(b) Two or more Tokens may rest upon the same space at the same time.	

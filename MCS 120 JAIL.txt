@@ -28,3 +28,5 @@ MCS 120 JAIL
 	(f) If the Player cannot obtain either a card or $50 then they are forced to declare bankruptcy to the Bank.
 	Sec. 120-80 Jail Law
 	(a) Even though a Player is in Jail, they may buy and sell Property, buy and sell houses and hotels, collect all rent owed to them, and engage in trades and exchanges.
+	(b) A Player may not immediately pay bail or use a get out of jail free card
+	(c) The Player must wait until their next turn to do so.
