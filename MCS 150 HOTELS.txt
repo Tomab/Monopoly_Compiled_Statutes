@@ -1,4 +1,4 @@
 MCS 150 HOTELS
-	Sec. 150-10 When a Player has four houses on each property of a complete color-group, they may buy a hotel from the Bank and erect it on any property of the color-group.
-	(a) The Player returns the four houses from that property to the Bank and pays the price for the hotel as shown on the Title Deed card.
-	(b) Only one hotel may be erected on any one property.
+	Sec. 150-10 When a Player has four houses on each Property of a complete color-group, they may buy a hotel from the Bank and erect it on any Property of the color-group.
+	(a) The Player returns the four houses from that Property to the Bank and pays the price for the hotel as shown on the Title Deed card.
+	(b) Only one hotel may be erected on any one Property.

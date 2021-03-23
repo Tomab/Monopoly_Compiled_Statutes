@@ -9,7 +9,7 @@ MCS 60 THE PLAY
 	Sec. 60-30 Token Law
 	(a) The Token remains on the space occupied and will proceed from that point upon the Player's next turn.
 	(b) Two or more Tokens may rest upon the same space at the same time.	
-	(c) According to the space a Token lands on, the Player may be entitled to buy property, obliged to pay rent, pay taxes, draw a “Chance” or “Community Chest” card, “Go to Jail”, etc.
+	(c) According to the space a Token lands on, the Player may be entitled to buy Property, obliged to pay rent, pay taxes, draw a “Chance” or “Community Chest” card, “Go to Jail”, etc.
 	Sec. 60-40 Doubles
 	(a) If the Player rolls doubles, move the Token as usual and complete the turn, but do not pass the dice on to the next Player.
 	(b) Retaining the dice, the Player must roll again and take their turn once more.

@@ -1,7 +1,7 @@
 MCS 50 THE BANK
 	Sec. 50-5 Bank Management
 	(a) The Bank is solely managed by the Banker.
-	(b) The Bank may at any time impose fines and fees for any service.
+	(b) The Bank may at any time impose reasonable fines and fees for any service.
 	(c) The Bank shall set an amount of money to be placed on the Game Board as a Free Parking reward and keep this amount constant for the duration of the Monopoly Game.
 	Sec. 50-10 Bank Holdings
 	(a) The Bank holds all Monopoly Money not held by the Players, bank-owned Title Deed cards, non-built houses, and non-built hotels.
@@ -20,3 +20,7 @@ MCS 50 THE BANK
 	(d) The Bank may never run out of money.
 	Sec. 50-40 Additional Duties
 	(a) The Bank shall be required to make change to any Player upon the Player's reasonable request.
+	Sec. 50-50
+	()***
+	snake eye bonus/penalty
+	rolling 12 bonus/penalty

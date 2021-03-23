@@ -4,15 +4,13 @@ MCS 120 JAIL
 	(b) A Player draws a card marked “Go to Jail”.
 	(c) A Player rolls doubles three times in succession.
 	Sec. 120-20 When a Player is sent to jail:
-	(a) Go directly to Jail.
-	(b) Do not pass Go.
-	(c) Do not collect $200.
-	(d) The Player's turn is immediately over.
+	(a) Go directly to Jail, Do not pass Go, Do not collect $200.
+	(b) The Player's turn is immediately over.
 	Sec. 120-30 Just Visiting 
 	(a) If a Token is not “sent” to Jail but in the ordinary course of play lands on that space, the Player is “Just Visiting,” and incurs no penalty.
 	(b) Upon the Player's next turn they may move ahead in the usual manner
 	Sec. 120-40 If at the beginning of a Player's turn they are in jail they may choose one of three methods of exiting.
-	(a) Using “Get Out of Jail Free” cord.
+	(a) Using “Get Out of Jail Free” card.
 	(b) Paying $50 cash to the center of the board.
 	(c) Attempting to roll doubles.
 	Sec. 120-50 Using the Card
@@ -25,8 +23,8 @@ MCS 120 JAIL
 	(a) The Player must roll the dice in an attempt to roll doubles.
 	(b) If the Player succeeds in doing this, they immediately move forward the number of spaces show on the dice.
 	(c) Even if successful, the Player does not get a second turn.
-	(d) If the Player is unsuccessful, they may opt to utilize either of the other options and end their turn.
-	(e) In the event the Player has failed to roll doubles three times, they are compelled to utilize one of the other options.
+	(d) If the Player is unsuccessful, they may opt to utilize either of the other options and end their turn without rolling the dice.
+	(e) In the event the Player has failed to roll doubles three times, they are compelled to utilize one of the other options and end their turn without rolling the dice.
 	(f) If the Player cannot obtain either a card or $50 then they are forced to declare bankruptcy to the Bank.
 	Sec. 120-80 Jail Law
-	(a) Even though a Player is in Jail, they may buy and sell property, buy and sell houses and hotels, and collect all rent owed to them.
+	(a) Even though a Player is in Jail, they may buy and sell Property, buy and sell houses and hotels, collect all rent owed to them, and engage in trades and exchanges.

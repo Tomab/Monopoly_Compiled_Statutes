@@ -1,9 +1,9 @@
 MCS 30 PREPARATION
 	Sec. 30-10 Place the game board on a table or other suitably flat area.
-	Sec. 30-15 Shuffle and place the Chance and Community Chest cards face down on their allotted spaces on the game board.
-	Sec. 30-20 An Arbitrator must be chosen.
-	Sec. 30-30 A Banker must be chosen.
-	Sec. 30-31 The Banker places the free parking reward on the Game Board.
-	Sec. 30-40 An Auctioneer must be chosen.
+	Sec. 30-20 The Arbitrator must be chosen.
+	Sec. 30-30 The Banker must be chosen.
+	Sec. 30-40 The Auctioneer must be chosen.
 	Sec. 30-50 Each Player must select a Token.
-	Sec. 30-60 The Banker must distribute $1,500 to each Player.
+	Sec. 30-60 The Bank must distribute $1,500 to each Player.
+	Sec. 30-70 The Bank must shuffle and place the Chance and Community Chest cards face down on their allotted spaces upon the Game Board.
+	Sec. 30-80 The Bank places the free parking reward on the Game Board.

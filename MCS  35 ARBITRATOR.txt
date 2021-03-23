@@ -1,8 +1,10 @@
 MCS 35 ARBITRATOR
 	Sec. 35-10 Selecting an Arbitrator
 	(a) The Arbitrator may be any human entity chosen by mutual agreement by all Players.
-	Sec. 35-20 Re-selecting a Arbitrator
+	Sec. 35-20 Removing an Arbitrator
 	(a) If at any time during the Monopoly Game the Arbitrator should refuse to or become incapable of performing their assigned duties as Arbitrator, or for any reason at all, a Player may move for a vote of no-confidence in the Arbitrator.
 	(b) If the motion is carried and the Arbitrator is not a Player, the Players need a unanimous vote against the Arbitrator to compel the Arbitrator to resign.
-	(c) If the motion is carried and the Arbitrator is a Player, they Players need an all-but-one vote against the Arbitrator to compel the Arbitrator to resign.
-	(d) When an Arbitrator resigns, the game cannot continue until a new Arbitrator is selected by mutual agreement of the Players.
+	(c) If the motion is carried and the Arbitrator is a Player, then Players need an all-but-one vote against the Arbitrator to compel the Arbitrator to resign.
+	Sec. 35-30 Resignation
+	(a) The Arbitrator may resign at any time and for any reason.
+	(b) When the Arbitrator resigns, the Monopoly Game cannot continue until a new Arbitrator is selected by mutual agreement of the Players.

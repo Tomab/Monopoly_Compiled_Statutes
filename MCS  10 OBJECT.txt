@@ -1,2 +1,2 @@
 MCS 10 OBJECT
-	Sec. 10-10 The object of the game is to be the last remaining non-bankrupt Player.
+	Sec. 10-10 The object of the Monopoly Game is to be the last remaining Player.

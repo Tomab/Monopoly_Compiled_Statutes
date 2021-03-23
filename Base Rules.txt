@@ -1,2 +1,0 @@
-Monopoly Compiled Statutes – v0.1.1.0
-MCS {Section}[paragraph][sub-paragraph]

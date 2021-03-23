@@ -5,4 +5,11 @@ MCS 1 DEFINITIONS
 	(c)”Token” is a physical object which all Players have agreed to use to represent the location of a specific Player upon the game board.
 	(d)”Game Board” refers to a specific physical object which the Players have agreed to use to represent the playing field.
 	(e)”Monopoly Money” refers to any system of currency which the Banker has chosen to use.
-	(f)”Unimproved Property” refers to property which has neither houses nor hotels constructed upon it.
+	(f)”Contract” refers to any legal agreement, trade, or exchange, whether verbal or written, to which all involved entities have agreed to.
+	(g)”Spectator” refers to either a bankrupt Player or non-playing human entity.
+	Sec. 1-20 Property
+	(a)”Property” refers to a square upon the Game Board.
+	(b)”Unimproved Property” refers to Property which has neither houses nor hotels constructed upon it.
+	(c)”Improved Property” refers to Property which has either houses or hotels constructed upon it.
+	(d)”Title Deed card” refers to a card used to determine ownership of a Property.
+	(e)”Owner” refers to either the Bank or the Player who is in possession of the Title Deed card for a specific Property.
