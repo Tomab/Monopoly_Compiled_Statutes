@@ -28,7 +28,7 @@ namespace MCS_Compiler
             AllText = Regex.Replace(AllText, "\\n", "<br>");
             AllText = Regex.Replace(AllText, "(\\t\\([a-z\\-0-9]*\\))", "&emsp;&emsp;$1");
             AllText = Regex.Replace(AllText, "\\t", "&emsp;");            
-            AllText = Regex.Replace(AllText, "(Sec. [0-9]*-[0-9]*)", "<b>$1</b>");            
+            AllText = Regex.Replace(AllText, "(Sec. [0-9]*-[0-9]*)", "<b>$1</b>");
 
             StreamWriter sw = new StreamWriter(@"..\Output\MCS" + version + ".html");
             sw.Write(AllText);

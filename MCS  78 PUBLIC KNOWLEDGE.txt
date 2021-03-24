@@ -7,4 +7,4 @@ MCS 78 PUBLIC KNOWLEDGE
 	(a) Deals, trades, and exchanges need not be public knowledge.
 	(b) Contractual obligations need not be public knowledge.
 	Sec. 78-30 Community Chest and Chance
-	(a) A Player must reveal any Community Chest or Chance cards in their possession upon request by any human entity.
+	(a) A Player must reveal any Community Chest or Chance cards in their possession upon request by any entity.
