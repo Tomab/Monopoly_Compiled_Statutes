@@ -1,11 +1,11 @@
 MCS 138 HOUSES AND HOTELS
-	Sec. 138-05 Definitions
+	Sec. 138-5 Definitions
 	(a) “Improvements” shall include both Houses and Hotels
 	Sec. 138-10 Buying Improvements
 	(a) A Player may only buy Improvements during their turn.
 	(b) This action can take place before, during, or after the Player rolls the Dice.
 	(c) A Player must own all the properties in a color-group to buy Improvements on those properties.
-	(d) The price paid to the Bank for each house is shown on the corresponding Title Deed Card for the Property on which the Player is buying the Improvement.
+	(d) The price paid to the Bank for each Improvement is shown on the corresponding Title Deed Card for the Property on which the Player is buying the Improvement.
 	Sec. 138-20 Selling Improvements
 	(a) A Player may sell Improvements back to the Bank at any time for half the buy cost.
 	Sec. 138-30 Buying and Selling Evenly

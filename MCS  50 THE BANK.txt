@@ -1,6 +1,6 @@
 MCS 50 THE BANK
 	Sec. 50-5 Bank Management
-	(a) The Bank is solely managed by the Banker.
+	(a) The Bank is managed by the Banker or their Designee.
 	(b) The Bank may at any time impose reasonable fines and fees for any service.
 	Sec. 50-10 Bank Holdings
 	(a) If the Banker or their Designee is a Player, they must keep their personal funds separate from those of the Bank.

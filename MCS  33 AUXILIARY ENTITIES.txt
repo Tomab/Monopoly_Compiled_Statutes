@@ -1,5 +1,5 @@
 MCS 33 AUXILIARY ENTITIES
-	Sec. 33-05 Auxiliary Entity Titles
+	Sec. 33-5 Auxiliary Entity Titles
 	(a) Auxiliary Entities include the Arbitrator, the Banker, and the Auctioneer.
 	Sec. 33-10 Selecting Auxiliary Entities
 	(a) An Auxiliary Entity may be any human entity chosen by the mutual agreement of all Players.
