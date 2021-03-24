@@ -15,7 +15,7 @@ MCS 50 THE BANK
 	Sec. 50-35 Currency
 	(a) The Bank defines the accepted forms of currency.
 	(b) The Bank may use paper, coin, or any object to represent any denomination the Bank sees fit.
-	(c) The Bank may at any time change, add, or remove any type of currency from circulation
+	(c) The Bank may at any time change, add, or remove any type of currency from circulation.
 	(d) The Bank may at any time demand that any Player exchange any currency they have in their possession.
 	(e) The Bank may never run out of money.
 	Sec. 50-40 Additional Duties

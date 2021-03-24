@@ -8,7 +8,7 @@ MCS 90 PAYING RENT
 	(a) When all properties of a color group are owned by 1 Player, all rent on those Unimproved Properties are double.
 	(b) This rule applies to unmortgaged properties even if another Property in that color group is currently mortgaged.
 	Sec. 90-40 Improved Property
-	(a) Property with houses or hotels built upon them may charge a higher rent in accordance with the list printed on the Property's Title Deed Card.
+	(a) Property with Houses or Hotels built upon them may charge a higher rent in accordance with the list printed on the Property's Title Deed Card.
 	Sec. 90-50 Owner Neglect
 	(a) The Owner is always entitled to collect the rent even if the Owner fails to ask for it.
 	(b) A Player who fails to notify the Owner and fails to pay any rent owed before the end of their turn shall upon discovery pay the rent originally owed and be subject to an additional fee Payable to the Owner.

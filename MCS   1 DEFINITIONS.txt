@@ -2,14 +2,14 @@ MCS 1 DEFINITIONS
 	Sec. 1-10 This section shall include the definitions for terms used in the Monopoly Compiled Statutes.
 	(a)”Monopoly Game” shall refer to one specific board game session of play which a group of Players have agreed to play together starting when the first dice are rolled and ending when a Player has achieved victory.
 	(b)”Player” is a human entity taking part in the Monopoly Game.
-	(c)”Token” is a physical object which all Players have agreed to use to represent the location of a specific Player upon the game board.
+	(c)”Token” is a physical object which all Players have agreed to use to represent the location of a specific Player upon the Game Board.
 	(d)”Game Board” refers to a specific physical object which the Players have agreed to use to represent the playing field.
 	(e)”Monopoly Money” refers to any system of currency which the Bank has chosen to use.
 	(f)”Contract” refers to any legal agreement, trade, or exchange, whether verbal or written, to which all involved entities have agreed to.
 	(g)”Spectator” refers to a non-playing human entity.
 	Sec. 1-20 Property
-	(a)”Property” refers to a square upon the Game Board who's Owner is the entity in possession of the corresponding Title Deed card.
-	(b)”Unimproved Property” refers to Property which has neither houses nor hotels constructed upon it.
-	(c)”Improved Property” refers to Property which has either houses or hotels constructed upon it.
+	(a)”Property” refers to a square upon the Game Board who's Owner is the entity in possession of the corresponding Title Deed Card.
+	(b)”Unimproved Property” refers to Property which has neither Houses nor Hotels constructed upon it.
+	(c)”Improved Property” refers to Property which has either Houses or Hotels constructed upon it.
 	(d)”Title Deed Card” refers to a card used to determine Ownership of a Property.
 	(e)”Owner” refers to either the Bank or the Player who is in possession of the Title Deed Card for a specific Property.
