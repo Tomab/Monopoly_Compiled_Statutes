@@ -9,7 +9,5 @@ MCS 1 DEFINITIONS
 	(g)”Spectator” refers to a non-playing human entity.
 	Sec. 1-20 Property
 	(a)”Property” refers to a square upon the Game Board who's Owner is the entity in possession of the corresponding Title Deed Card.
-	(b)”Unimproved Property” refers to Property which has neither Houses nor Hotels constructed upon it.
-	(c)”Improved Property” refers to Property which has either Houses or Hotels constructed upon it.
 	(d)”Title Deed Card” refers to a card used to determine Ownership of a Property.
 	(e)”Owner” refers to either the Bank or the Player who is in possession of the Title Deed Card for a specific Property.

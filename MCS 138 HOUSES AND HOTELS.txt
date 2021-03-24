@@ -1,6 +1,8 @@
-MCS 138 HOUSES AND HOTELS
+MCS 138 IMPROVEMENTS
 	Sec. 138-5 Definitions
-	(a) “Improvements” shall include both Houses and Hotels
+	(a)“Improvements” shall include both Houses and Hotels
+	(b)”Unimproved Property” refers to Property which does not have Improvements constructed upon it.
+	(c)”Improved Property” refers to Property which has at least one Improvement built upon it.
 	Sec. 138-10 Buying Improvements
 	(a) A Player may only buy Improvements during their turn.
 	(b) This action can take place before, during, or after the Player rolls the Dice.
