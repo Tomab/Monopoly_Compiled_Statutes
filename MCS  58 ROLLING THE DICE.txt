@@ -12,5 +12,5 @@ MCS 58 ROLLING THE DICE
 	(a) For Dice which settle ambiguously after a roll, a swift pounding of the table or floor by the Player who rolled the dice will resolve the roll.
 	(b) In the event a swift pounding does not resolve the roll, the Player may opt to re-roll the ambiguous Dice, or all Dice.
 	(c) This decision must remain constant for said Player for the duration of the Monopoly Game.
-	Sec. 58.30. Prohibitions
+	Sec. 58-30 Prohibitions
 	(a) Dice rolls will not be performed in a box or up against any corners
