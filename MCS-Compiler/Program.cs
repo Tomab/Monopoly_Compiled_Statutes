@@ -6,14 +6,13 @@ namespace MCS_Compiler
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Scblieter Systems - Monopoly Compiled Statutes - Compiler v0.2");
 
-            String version = "";
 
             StreamReader sr = new StreamReader("../Version");
-            version = sr.ReadToEnd();
+            String version = sr.ReadToEnd();
             sr.Close();
 
             String AllText = "<h1>Monopoly Compiled Statutes - " + version + "</h1>";
@@ -30,13 +29,17 @@ namespace MCS_Compiler
             AllText = Regex.Replace(AllText, "\\t", "&emsp;");            
             AllText = Regex.Replace(AllText, "(Sec. [0-9]*-[0-9]*)", "<b>$1</b>");
 
-            StreamWriter sw = new StreamWriter(@"..\Output\MCS" + version + ".html");
+            StreamWriter sw = new StreamWriter(@"..\output\MCS" + version + ".html");
             sw.Write(AllText);
             sw.Close();
 
-            Console.WriteLine("The file has been generated...");
+            Console.WriteLine("A file has been generated at " + @"..\output\MCS" + version + ".html");
 
-            System.Diagnostics.Process.Start(@"cmd.exe ", @"/c ..\Output\MCS" + version + ".html");
+            System.Diagnostics.Process.Start(@"cmd.exe ", @"/c ..\output\MCS" + version + ".html");
+
+
+            Console.WriteLine("Press <ENTER> to exit.");
+            Console.ReadLine();
         }
     }
 }
