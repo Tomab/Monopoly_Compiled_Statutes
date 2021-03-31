@@ -4,7 +4,7 @@ MCS 180 MORTGAGES
 	(b) Improved Property shall not be mortgaged unless all Improvements on all the properties of its color-group are first sold to the Bank.
 	Sec. 180-20 Mortgage Value
 	(a) When a Player mortgages a property the Bank shall pay the Player the amount indicated on the back of the Title Deed Card in Monopoly Money.
-	(b) When a Property is mortgaged, the Player will place the Title Deed Card face down.
+	(b) When a Property is mortgaged, its Title Deed Card is placed face down in front of the Owner and in plain view.
 	Sec. 180-30 Rent Collection
 	(a) Rent shall not be collected on mortgaged Properties
 	(b) Rent can be collected on unmortgaged Properties in the same color-group.

@@ -18,11 +18,11 @@ MCS 100 CHANCE AND COMMUNITY CHEST CARDS
 	(a) The Player must advance their Token to the nearest utility.
 	(b) If the nearest utility is behind the Player's Token, the Token must advance forward around the Monopoly Board to the utility.
 	(c) If the utility is owned by a Player, the Player drawing the card must roll the Dice and pay the Owner ten times the amount shown on the dice.
-	(d) If the utility is owned by the Bank, the Player drawing the card may purchase it at the listed price.
+	(d) If the utility is owned by the Bank, the Player drawing the card may purchase the Property per the procedures and in accordance with MCS 80.
 	Sec. 100-32”You Have Been Elected Chairman of the Board”
 	(a) The Player must pay each Player, including themselves, $50 in Monopoly Money.
 	Sec. 100-33”Advance Token to the Nearest Railroad”
 	(a) The Player must advance their Token to the nearest railroad.
 	(b) If the nearest railroad is behind the Player's Token, the Token must advance forward around the Monopoly Board to the railroad.
 	(c) If the railroad is owned by a Player, pay the Player twice what they would otherwise be entitled to.
-	(d) If the railroad is owned by the Bank the Player may buy the Property per the procedures and in accordance with MCS 80.
+	(d) If the railroad is owned by the Bank, the Player drawing the card may purchase the Property per the procedures and in accordance with MCS 80.

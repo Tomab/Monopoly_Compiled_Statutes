@@ -3,7 +3,6 @@ MCS 90 PAYING RENT
 	(a) When a Token lands on Property owned by another Player, the Owner may collect rent in accordance with the list printed on the Property's Title Deed Card.
 	Sec. 90-20 Mortgaged Properties
 	(a) If the Property is mortgaged, no rent can be collected.
-	(b) When a Property is mortgaged, its Title Deed Card is placed face down in front of the Owner and in plain view.
 	Sec. 90-30 Double Rent
 	(a) When all properties of a color group are owned by 1 Player, all rent on those Unimproved Properties are double.
 	(b) This rule applies to unmortgaged properties even if another Property in that color group is currently mortgaged.

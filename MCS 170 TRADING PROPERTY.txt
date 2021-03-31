@@ -7,6 +7,7 @@ MCS 170 TRADING PROPERTY
 	Sec. 170-30 Miscellaneous Agreements
 	(a) Players may come to all sorts of agreements involving Properties and Rent collection.
 	(b) Agreements involving leans, immunity, shares, profit splitting, shared construction costs, etc. are allowed.
+	(c) All agreements shall be legally binding within the Monopoly Game so long as the agreements do not conflict with any statutes within this code.
 	Sec. 170-40 Selling Properties to the Bank
 	(a) Player's may not sell Properties back to the Bank.
 	Sec. 170-50 Outside Assets or Services

@@ -10,7 +10,5 @@ MCS 190 BANKRUPTCY
 	(b) The Bank shall deposit the Monopoly Money and reclaim all Improvements.
 	(c) All Property and any "Get Out of Jail Free" Cards shall be tendered to the Auctioneer for immediate auction.
 	(d) The Player's Token shall be permanently placed in Jail.
-	Sec. 190-17 Bankrupt Player's Legal Status
-	(a) After declaring bankruptcy a Player is no longer considered to be a Player, but rather a Spectator.
 	Sec. 190-20 Bankruptcy Laws
 	(a) Once a Player lands on a Property any deals or trades they participate in shall be voided unless the Owner receives either the appropriate rent amount due or the Owner is satisfied with what they receive as payment.
