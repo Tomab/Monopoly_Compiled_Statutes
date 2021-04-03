@@ -15,7 +15,7 @@ namespace MCS_Compiler
             String version = sr.ReadToEnd();
             sr.Close();
 
-            String AllText = "<h1>Monopoly Compiled Statutes - " + version + "</h1>";
+            String AllText = "<meta http-equiv=\"Content - Type\" content=\"text / html; charset = UTF - 8\"><h1>Monopoly Compiled Statutes - " + version + "</h1>";
 
             foreach ( var file in Directory.EnumerateFiles("../", "*.txt"))
             {
