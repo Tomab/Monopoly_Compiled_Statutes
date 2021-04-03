@@ -1,19 +1,20 @@
 MCS 60 THE PLAY
 	Sec. 60-10 Determining Who Goes First
-	(a) To determine the order of play, each Player shall roll the dice.
-	(b) The Player with the highest total will take their turn first, moving clock-wise there after.
-	(c) In the event of a tie for the highest total, all players who are tied for the highest total will compete in an additional round of rolls following the same rules until there is no tie for highest total.
+	(a) To determine the order of play, each Player shall roll the Dice.
+	(b) The Player with the highest total will take their turn first, moving clock-wise there-after.
+	(c) In the event of a tie for the highest total, all Players who are tied for the highest total will compete in an additional round of rolls following the same rules until there is no tie for highest total.
 	Sec. 60-20 Player Turn
-	(a) Upon a Player's first turn, they must place their Token on the corner marked “GO”.
-	(b) The Player must roll the dice and move their Token in the direction of the arrow the number of spaces indicated by the dice.
+	(a) Upon a Player's first turn, they must select and place a unique Token, chosen to represent their location, on the corner marked “GO”.
+	(b) The Player must roll the Dice and move their Token in the direction of the arrow the number of spaces indicated by the Dice.
 	(c) After the Player has completed their turn they must pass the Dice to the next Player.
+	(d) Other Players shall not handle the Dice until it is their turn.
 	Sec. 60-30 Token Law
 	(a) The Token remains on the space occupied and will proceed from that point upon the Player's next turn.
 	(b) Two or more Tokens may rest upon the same space at the same time.	
 	(c) According to the space a Token lands on, the Player may be entitled to buy Property, obliged to pay rent, pay taxes, draw a “Chance” or “Community Chest” card, “Go to Jail”, etc..
 	Sec. 60-40 Doubles
 	(a) If the Player rolls doubles, move the Token as usual and complete the turn, but do not pass the dice on to the next Player.
-	(b) Retaining the dice, the Player must roll again and take their turn once more.
+	(b) Retaining the Dice, the Player must roll again and take their turn once more.
 	(c) If the Player rolls doubles three times in succession they must immediately move their Token to the space marked “In Jail” and end their turn.
 	Sec. 60-50”Once Around the Board”
 	(a) The Players need not move around the board once before they buy Properties, but can buy Bank-owned Properties from the very first round of play.

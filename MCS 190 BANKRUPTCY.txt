@@ -1,6 +1,6 @@
 MCS 190 BANKRUPTCY
 	Sec. 190-10 Bankruptcy Requirements
-	(a) A Player must declared bankruptcy if the Player owes more than they can pay either to another Player or to the Bank.
+	(a) A Player must declare bankruptcy if the Player owes more than they can pay either to another Player or to the Bank.
 	(b) A Player who declares bankruptcy immediately resigns from the Monopoly Game after the bankruptcy is settled.
 	Sec. 190-13 Bankruptcy Actions
 	(a) If a Player's debt is to another Player, they must turn over to that Player all that they have of value (including their Token) and resign from the Monopoly Game.
