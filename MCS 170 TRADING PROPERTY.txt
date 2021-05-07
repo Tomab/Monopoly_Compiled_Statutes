@@ -11,7 +11,7 @@ MCS 170 TRADING PROPERTY
 	Sec. 170-40 Selling Properties to the Bank
 	(a) Player's may not sell Properties back to the Bank.
 	Sec. 170-50 Outside Assets or Services
-	(a) Players may not involve assets or services from outside the Monopoly Game in deals within the Monopoly Game.
+	(a) Entities may not involve assets or services from outside the Monopoly Game in deals within the Monopoly Game.
 	(b) Trades and exchanges may not involve real-world commodities.
 	Sec. 170-60 Open Trading
 	(a) Deals, trades, and exchanges may be negotiated, renegotiated, or performed at any time.
