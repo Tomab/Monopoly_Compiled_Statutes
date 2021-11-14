@@ -1,11 +1,11 @@
 CL0001 On 07 May 2021 under MCS v0.2.3.4
 
-Under contract law what happens when there is profit sharing and a Player goes bankrupt?  Case law now indicates that the owning Player must pay the other parties in cash.  That is up to interpretation of the wording of the contract per G0321.18-23.
+Under contract law what happens when there are profits shared and the owner of the property declares bankruptcy?  It was ruled that the owning Player must settle their debts with all involved parties.  That is up to interpretation of the wording of the contract per G0321.18-23.
 
 CL0002 On 07 May 2021 under MCS v0.2.3.4
 
-In regards to MCS 50-5(b): Reasonable Fees are not strictly defined within the MCS.  This is intentional.  It was ruled that 50% through 47% were unreasonable and that 10% was acceptable. 
+In regards to the statute listed under MCS 50-5(b): Reasonable Fees are not strictly defined within the MCS.  This is intentional.  It was ruled that 50% through 47% were unreasonable and that 10% was acceptable.
 
 CL0003 On 07 May 2021 under MCS v0.2.3.4
 
-It was determined that fees paid to build Improvements are not to be included in Total Worth as defined in MCS 110-1(a).
+It was determined that fees paid to build Improvements are not to be included in Total Worth as defined in MCS 110-1(a).  MCS 110-1(b) was added to provide additional clarity moving forward in MCS v0.2.5.4
