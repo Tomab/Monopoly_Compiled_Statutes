@@ -15,3 +15,4 @@ MCS 220 AUCTIONS
 	(b) The Auctioneer may impose a reasonable fee payable to the Bank for their services.
 	(c) Said fee shall be announced before the auction commences.
 	(d) If the Auctioneer fails to specify an auction fee, said fee shall be $0 of Monopoly Money.
+	(e) If no bids are placed, the Property shall be returned to the Bank.
