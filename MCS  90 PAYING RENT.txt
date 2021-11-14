@@ -3,9 +3,10 @@ MCS 90 PAYING RENT
 	(a) When a Token lands on Property owned by another Player, the Owner may collect rent in accordance with the list printed on the Property's Title Deed Card.
 	Sec. 90-20 Mortgaged Properties
 	(a) If the Property is mortgaged, no rent can be collected.
-	Sec. 90-30 Double Rent
-	(a) When all properties of a color group are owned by 1 Player, all rent on those Unimproved Properties are double.
-	(b) This rule applies to unmortgaged properties even if another Property in that color group is currently mortgaged.
+	Sec. 90-30 Enhanced Rent
+	(a) When all properties of a Color Group are owned by 1 Player, all rent on those Unimproved Properties are double except for the railroads and utilities which have their own special rules governing rent.
+	(b) This rule applies to unmortgaged properties even if another Property in that Color Group is currently mortgaged.
+	(c) A mortgaged railroad or utility still counts towards a Player's railroad or utility Property count for rent purposes.
 	Sec. 90-40 Improved Property
 	(a) Property with Improvements built upon them may charge a higher rent in accordance with the list printed on the Property's Title Deed Card.
 	Sec. 90-50 Owner Neglect

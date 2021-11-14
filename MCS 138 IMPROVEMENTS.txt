@@ -6,17 +6,17 @@ MCS 138 IMPROVEMENTS
 	Sec. 138-10 Buying Improvements
 	(a) A Player may only buy Improvements during their turn.
 	(b) This action can take place before, during, or after the Player rolls the Dice.
-	(c) A Player must own all the properties in a color-group to buy Improvements on those properties.
+	(c) A Player must own all the properties in a Color Group to buy Improvements on those properties.
 	(d) The price paid to the Bank for each Improvement is shown on the corresponding Title Deed Card for the Property on which the Player is buying the Improvement.
+	(e) A Player can neither build Improvements on Railroads nor on Utilities.
 	Sec. 138-20 Selling Improvements
 	(a) A Player may sell Improvements back to the Bank at any time for half the buy cost.
 	Sec. 138-30 Buying and Selling Evenly
 	(a) Improvements must be bought and sold evenly.
-	(b) At no time can any Property within a color-group have more than one Improvement more than any other Property within the same color-group.
+	(b) At no time can any Property within a Color Group have more than one Improvement more than any other Property within the same Color Group.
 	Sec. 138-40 Improvement Shortages
 	(a) When the Bank has no Improvements left the Bank must find and use a suitable substitute for additional Improvements.
 	(b) The Bank must never “run out” of Improvements.
 	Sec. 138-50 Miscellaneous
-	(a) The Owner shall collect double rent from a Player who lands on the Unimproved Properties of their complete color-group.
-	(b) For all intents and purposes in MCS 138 a Hotel will be treated as a fifth Improvement.
-	(c) A Property may only have a maximum of five Improvements.
+	(a) For all intents and purposes in MCS 138 a Hotel will be treated as a fifth Improvement.
+	(b) A Property may only have a maximum of five Improvements.

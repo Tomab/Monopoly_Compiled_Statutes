@@ -9,5 +9,7 @@ MCS 1 DEFINITIONS
 	(g)”Spectator” refers to a non-playing human entity.
 	Sec. 1-20 Property
 	(a)”Property” refers to a square upon the Game Board who's Owner is the entity in possession of the corresponding Title Deed Card.
-	(d)”Title Deed Card” refers to a card used to determine Ownership of a Property.
-	(e)”Owner” refers to either the Bank or the Player who is in possession of the Title Deed Card for a specific Property.
+	(b)”Title Deed Card” refers to a card used to determine Ownership of a Property.
+	(c)”Owner” refers to either the Bank or the Player who is in possession of the Title Deed Card for a specific Property.
+	(d)"Color Group" refers to a set of Property of the same color, the set of four railroads, or a set including the two utilities.
+	
