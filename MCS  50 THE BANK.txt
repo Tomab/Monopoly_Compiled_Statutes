@@ -6,12 +6,12 @@ MCS 50 THE BANK
 	Sec. 50-10 Bank Holdings
 	(a) If the Banker or their Designee is a Player, they must keep their personal funds separate from those of the Bank.
 	Sec. 50-20 Payouts
-	(a) The Bank pays salaries, “Chance” card rewards, and “Community Chest” card rewards.
+	(a) The Bank pays salaries, Chance Card rewards, and Community Chest Card rewards.
 	(b) When paid for, the Bank distributes Title Deed Cards to Players.
-	(d) The Bank disburses Monopoly Money when properties are mortgaged.
-	(e) The Bank distributes Monopoly Money when buying Improvements back from Players.
+	(d) The Bank disburses Monopoly Money when Properties are mortgaged.
+	(e) The Bank distributes Monopoly Money when Players sell Improvements.
 	Sec. 50-30 Collections
-	(a) The Bank receives Monopoly Money for properties it sells, proceeds from public auctions held by the Auctioneer, Improvements the Bank has sold, for mortgaged properties, and fees and fines associated with Community Chest and Chance cards.
+	(a) The Bank receives Monopoly Money for Properties it sells, proceeds from public auctions, Improvements the Bank has sold, for mortgaged properties, and fees and fines associated with Community Chest and Chance cards.
 	Sec. 50-35 Currency
 	(a) The Bank defines the accepted forms of currency.
 	(b) The Bank may use paper, coin, or any object to represent any denomination the Bank sees fit.
