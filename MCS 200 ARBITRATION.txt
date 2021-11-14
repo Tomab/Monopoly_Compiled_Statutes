@@ -15,4 +15,3 @@ MCS 200 ARBITRATION
 	(c) All parties need not be satisfied by the ruling.
 	Sec. 200-40 Fees and Fines
 	(a) The Arbitrator, at their discretion, may order any reasonable fees and fines that they see fit payable to the Bank or to any Player.
-	(b) The Arbitrator may alter or modify any rule or law written herein for the duration of the Monopoly Game except those laws written under MCS 33 and MCS 200-40(b).
