@@ -9,7 +9,7 @@ MCS 220 AUCTIONS
 	(a) The Player who wins the auction must pay the Bank the amount of the bid in cash.
 	(b) After payment has been made, the winning Player receives the appropriate Title Deed Card.
 	Sec. 220-40 Failure to Make Payment
-	(a) If the winning player cannot make full payment in Monopoly Money to the Bank the Player must declare bankruptcy per MCS 190.
+	(a) If the winning Player cannot make full payment in Monopoly Money to the Bank the Player must declare bankruptcy per MCS 190.
 	Sec. 220-50 Auction Mechanics
 	(a) The Auctioneer shall be granted wide discretion in the precise mechanics of the auction within the bounds of this section.
 	(b) The Auctioneer may impose a reasonable fee payable to the Bank for their services.
