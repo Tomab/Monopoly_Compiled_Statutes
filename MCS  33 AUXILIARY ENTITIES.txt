@@ -14,4 +14,4 @@ MCS 33 AUXILIARY ENTITIES
 	(a) An Auxiliary Entity may resign at any time and for any reason.
 	(b) When an Auxiliary Entity resigns, the Monopoly Game cannot continue until the position is filled by mutual agreement of the Players.
 	Sec. 33-40 Coercion
-	(a) Under no circumstances shall a Player threaten an Auxiliary Entity in an attempt to gain an unfair advantage during the course of the Monopoly Game.
+	(a) Under no circumstances shall any entity threaten an Auxiliary Entity in an attempt to gain an unfair advantage during the course of the Monopoly Game.
