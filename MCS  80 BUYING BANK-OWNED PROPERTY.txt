@@ -1,8 +1,5 @@
-MCS 80 BUYING BANK-OWNED PROPERTY
+MCS 80 BUYING PROPERTY
 	Sec. 80-10 Landing on Property
 	(a) Whenever a Token lands on a Bank-owned Property, the Player may buy that Property from the Bank at its printed price.
 	Sec. 80-20 Going to Auction
 	(a) If the Player landing on the Property does not wish to buy the Property, the Auctioneer must sell the Property at auction to the highest bidder.
-	(b) The Auctioneer is responsible for auctioning the Property per MCS 220.
-	(c) The Player who wins the auction must pay the Bank the amount of the bid in cash and will receive the Title Deed Card for that Property.
-	(d) Any Player, including the one who declined the option to buy the Property at the printed price, may bid.

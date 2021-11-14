@@ -2,6 +2,7 @@ MCS 220 AUCTIONS
 	Sec. 220-10 Auction Rules
 	(a) When an auction is to take place, the Auctioneer shall announce the starting bid.
 	(b) If the Auctioneer does not specify a minimum bid increment the minimum bid increment shall be $1 in Monopoly Money.
+	(c) All Players may participate in the auction.
 	Sec. 220-20 Valid Bids
 	(a) Only Monopoly Money may be utilized in the bidding process.
 	(b) Players may not bid with Property, Contractual obligations, or "Get Out of Jail Free" cards.
