@@ -1,6 +1,6 @@
 MCS 1 DEFINITIONS
 	Sec. 1-10 This section shall include the definitions for terms used in the Monopoly Compiled Statutes.
-	(a)”Monopoly Game” shall refer to one specific board game session of play which a group of Players have agreed to play together starting when the first dice are rolled and ending when a Player has achieved victory.
+	(a)”Monopoly Game” shall refer to one specific board game session of play which a group of Players have agreed to play together starting when the first dice are rolled and ending when a Player has achieved the object of the Monopoly Game as defined in MCS 10-10.
 	(b)”Player” is a human entity taking part in the Monopoly Game.
 	(c)”Token” is a physical object which all Players have agreed to use to represent the location of a specific Player upon the Game Board.
 	(d)”Game Board” refers to a specific physical object which the Players have agreed to use to represent the playing field.
