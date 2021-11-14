@@ -4,8 +4,8 @@ MCS 33 AUXILIARY ENTITIES
 	Sec. 33-10 Selecting Auxiliary Entities
 	(a) An Auxiliary Entity may be any entity capable of performing the duties of their office chosen by the mutual agreement of all Players.
 	Sec. 33-15 Neutrality
-	(a) As much as is possible Auxiliary Entities must in the performance of their duties attempt to maintain a fair and neutral stance in regards to the Players, and other entities during the Monopoly Game.
-	(b) An Auxiliary Entity shall not favor any Player for personal reasons.
+	(a) As much as is possible Auxiliary Entities must in the performance of their duties attempt to maintain a fair and neutral stance in regards to all other entities during the Monopoly Game.
+	(b) An Auxiliary Entity shall not favor any entity for personal reasons.
 	Sec. 33-20 Removing Auxiliary Entities
 	(a) If at any time during the Monopoly Game an Auxiliary Entity should refuse to or become incapable of performing their assigned duties, or for any reason at all, a Player may move for a vote of no-confidence in the Auxiliary Entity.
 	(b) If the motion is carried and the Auxiliary Entity is not a Player, the Players need a unanimous vote against the Auxiliary Entity to compel the Auxiliary Entity to resign.
